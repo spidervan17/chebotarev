@@ -1,0 +1,5 @@
+Minusinsk Krasnoyarsk 350
+Minusinsk Abakan 20
+Krasnoyarsk Abakan 400
+Krasnoyarsk Moscow 4700
+Abakan Kyzyl 700
